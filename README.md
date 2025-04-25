@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou o Diego Beraldo, atualmente trabalho com design, estou cursando ADS e pretendo trabalhar com front-end no futuro.</p>
+<p align="left">Sou o Diego Beraldo, tenho 17 anos, nascido em Madrid (Espanaha), atualmente trabalho com design, estou cursando ADS e pretendo trabalhar com front-end no futuro.</p>
 
 ###
 
